@@ -40,6 +40,5 @@ A solution covers both intent and architectural concerns, both software and syst
 
 ## Reference Source
 
-substack
-
-Solution architecture sketchy icons
+- [Fundamentals of Solution Architecture Modeling](https://seanguc.substack.com/p/fundamentals-of-solution-architecture)
+- [Solution architecture element icons]([feat: new library Solution Architecture Elements by excalibot · Pull Request #2893 · excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries/pull/2893))
