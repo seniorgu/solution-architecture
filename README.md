@@ -1,6 +1,6 @@
 # Solution Architecture Elements
 
-Solution architecture includes a high-level view of software engineering and systems engineering, together with requirements considerations. The elements are divided into three groups that provide coverage of the solution architecture. Instead of a long narrative, I list the solution elements in an easy-to-understand visual view.
+Solution architecture generally encompasses a high-level view of both software and systems engineering, along with considerations for requirements. Leveraging extensive project experience, these elements are categorized into three groups to comprehensively cover the solution architecture. Instead of a lengthy narrative, I present the key components in an easy-to-understand visual format.
 
 > Solution architecture also involves solution architecture management (budget, resource, timeline, deliverable phase), which serves as a context for the solution architecture. This paper focuses on the content or the core of the solution architecture.
 
