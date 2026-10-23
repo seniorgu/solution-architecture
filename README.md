@@ -8,7 +8,7 @@ Solution architecture includes a high-level view of software engineering and sys
 
 Figure 1 shows the intent and metrics layer elements. The yellowish color represents the user end, white represents business considerations and design decisions, and the light purple color represents the key metrics, including quality attributes, architectural decisions, and governance controls.
 
-![User Intent Elements](images\Intent-metrics-elements.png)
+![User Intent Elements](images/Intent-metrics-elements.png)
 
 Figure 1. User Intent Elements
 
