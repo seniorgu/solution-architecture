@@ -16,7 +16,7 @@ Figure 1. User Intent Elements
 
 Figure 2 shows a list of application-level elements. These are the critical functional service-level elements, each of which needs to be carefully considered. For AI solutions, AI-specific elements should also be included. The components are also related to software design and are either high-level or used for walkthroughs for validation purposes. The microservice elements are partially operational considerations.
 
-![Functional/Application Elements](images\functional-elements.png)
+![Functional/Application Elements](images/functional-elements.png)
 
 Figure 2. Functional/Application Elements
 
@@ -24,7 +24,7 @@ Figure 2. Functional/Application Elements
 
 Figure 3 shows a list of operational/middleware elements. The bluish elements represent middleware, whereas the gray elements represent the operational infrastructure level.
 
-![Operational/Middleware Elements](images\operational-elements.png)
+![Operational/Middleware Elements](images/operational-elements.png)
 
 Figure 3. Operational/Middleware Elements
 
